@@ -1,5 +1,5 @@
 {
-  "name": "jds",
+  "name": "bruce-jds",
   "version": "0.0.1",
   "private": false,
   "description": "JDS",
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@jackery/design-system": "file:",
+    "bruce-jds": "file:",
     "jds": "file:",
     "lit": "^3.2.1"
   },
